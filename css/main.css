@@ -1102,7 +1102,7 @@
 	 left: 90px;
 	 top: 0;
  }
- /* header .logo {
+ header .logo {
 	 float: left;
 	 margin-left: 20px;
 	 margin-right: 50px;
@@ -1121,7 +1121,7 @@
 	 height: 15px;
 	 background: #000000;;
 	 background-size: 50px 15px;
- } */
+ }
  
  /**
   * menu toggle - (_layout.css)
