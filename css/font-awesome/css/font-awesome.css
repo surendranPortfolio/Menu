@@ -589,6 +589,9 @@
 .fa-github-square:before {
   content: "\f092";
 }
+.fa-coder-square:before {
+  content: "\f121";
+}
 .fa-upload:before {
   content: "\f093";
 }
@@ -615,6 +618,9 @@
 }
 .fa-github:before {
   content: "\f09b";
+}
+.fa-coder:before {
+  content: "\f121";
 }
 .fa-unlock:before {
   content: "\f09c";
@@ -932,6 +938,9 @@
 }
 .fa-github-alt:before {
   content: "\f113";
+}
+.fa-coder-alt:before {
+  content: "\f121";
 }
 .fa-folder-o:before {
   content: "\f114";
